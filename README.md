@@ -106,8 +106,9 @@ docs/screenshots/
 Recommended files:
 
 ```md
-![Home Screen](docs/screenshots/home.png)
-![Player Screen](docs/screenshots/player.png)
+[Home Screen](docs/screenshots/home.png)
+[Player Screen](docs/screenshots/player.png)
+[Search Screen](docs/screenshots/search.png)
 ```
 
 ## Notes
